@@ -1,0 +1,20 @@
+.banner{
+    background-color: darkolivegreen;
+    
+}
+h1{
+    color: tomato;
+}
+.input{
+   border: 2px solid gray;
+   border-radius: 5px;
+}
+.button-input{
+    border: 2px solid blue;
+    border-radius: 5px;
+    background-color: rgb(64, 81, 240);
+}
+.button{
+    justify-content: center;
+    margin-top: 20px;
+}
